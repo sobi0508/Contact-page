@@ -12,16 +12,16 @@ body{
   display: flex;
   justify-content:space-between;
   align-items: center;
-  border-bottom: solid black 1px;
+  border-bottom: solid black 2px;
 }
 
 .navbar_s1{
   color: #A435f0;
   
-}
+}i
 .navbar_s2{
   padding: 10px;
-  border: solid black 1px;
+  border: solid black 2px;
   border-radius: 30px;
   width: 60%;
   display: flex;
@@ -30,8 +30,6 @@ body{
 .navbar_s2 input{
   width: 100%;
   border: none;
-  
-  
   
 }
 .navbar_s2 input:focus{
@@ -49,8 +47,8 @@ body{
 }
 .categories p{
   background-color: #A435f0;
-  border-radius: 30px;
   padding: 10px;
+  border-radius: 30px;
   color:white;
   
 }
